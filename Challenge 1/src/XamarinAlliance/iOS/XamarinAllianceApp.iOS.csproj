@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>XamarinAllianceApp.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>XamarinAllianceApp.iOS</AssemblyName>
+    <AssemblyName>XamarinAllianceAppiOS</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
     <DebugSymbols>true</DebugSymbols>
